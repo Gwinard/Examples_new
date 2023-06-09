@@ -1,0 +1,15 @@
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\bin\Debug\net7.0\Example_5.exe
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\bin\Debug\net7.0\Example_5.deps.json
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\bin\Debug\net7.0\Example_5.runtimeconfig.json
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\bin\Debug\net7.0\Example_5.dll
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\bin\Debug\net7.0\Example_5.pdb
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.csproj.AssemblyReference.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.AssemblyInfoInputs.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.AssemblyInfo.cs
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.dll
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\refint\Example_5.dll
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.pdb
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\Example_5.genruntimeconfig.cache
+C:\Users\alexs\Documents\Обучение\Языки программирования\Examples_new\Example_5\obj\Debug\net7.0\ref\Example_5.dll
